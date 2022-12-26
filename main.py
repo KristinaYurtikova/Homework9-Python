@@ -1,5 +1,6 @@
 # Напишите бота, удаляющего из текста все слова, содержащие "абв". (Ввод от пользователя)
 
+
 from telegram import Bot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler
 
